@@ -69,12 +69,7 @@ class AdapterReceiveRating
     inner class RatingViewHolder(private val binding: CustomRecyclerReceiveRatingBinding): RecyclerView.ViewHolder(binding.root) {
         fun bind(item: GetRatingDTO) {
             binding.tvWriterNickname.setText(item.nickname)
-            when(getMemberProfile(item.senderId!!)) {
-                0 -> binding.imgProfile.setImageDrawable(binding.root.resources.getDrawable(R.drawable.ic_profile_0))
-                1 -> binding.imgProfile.setImageDrawable(binding.root.resources.getDrawable(R.drawable.ic_profile_1))
-                2 -> binding.imgProfile.setImageDrawable(binding.root.resources.getDrawable(R.drawable.ic_profile_2))
-                3 -> binding.imgProfile.setImageDrawable(binding.root.resources.getDrawable(R.drawable.ic_profile_3))
-            }
+            getMemberProfile(item.senderId!!.toLong(), binding)
             when(item.star) {
                 5 -> binding.tvComment.setText(binding.root.resources.getText(R.string.rating5))
                 4 -> binding.tvComment.setText(binding.root.resources.getText(R.string.rating4))
@@ -94,7 +89,7 @@ class AdapterReceiveRating
 
     }
 
-    private fun getMemberProfile(memeberId: Long) : Int {
+    private fun getMemberProfile(memeberId: Long, binding: CustomRecyclerReceiveRatingBinding) : Int {
         val api = APIS.create()
         var profile = 0
         api.getUser(memeberId).enqueue(object : Callback<UserGetDTO> {
@@ -102,6 +97,12 @@ class AdapterReceiveRating
                 Log.d("arr server succ", response.body().toString())
                 val tmpDTO = response.body()
                 profile = tmpDTO!!.profile!!
+                when(profile) {
+                    0 -> binding.imgProfile.setImageDrawable(binding.root.resources.getDrawable(R.drawable.ic_profile_0))
+                    1 -> binding.imgProfile.setImageDrawable(binding.root.resources.getDrawable(R.drawable.ic_profile_1))
+                    2 -> binding.imgProfile.setImageDrawable(binding.root.resources.getDrawable(R.drawable.ic_profile_2))
+                    3 -> binding.imgProfile.setImageDrawable(binding.root.resources.getDrawable(R.drawable.ic_profile_3))
+                }
             }
 
             override fun onFailure(call: Call<UserGetDTO>, t: Throwable) {
