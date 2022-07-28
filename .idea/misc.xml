@@ -64,6 +64,7 @@
         <entry key="..\:/Users/ej/haejo/app/src/main/res/drawable/ic_write_unselected.xml" value="0.188" />
         <entry key="..\:/Users/ej/haejo/app/src/main/res/drawable/spinner_unselected.xml" value="0.237" />
         <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/activity_begin.xml" value="0.264" />
+        <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/activity_begin_manual.xml" value="0.1" />
         <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/activity_begin_set_profile.xml" value="0.32659795098837435" />
         <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/activity_loading.xml" value="0.24742269014270782" />
         <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/activity_main.xml" value="0.32659795098837435" />
@@ -102,11 +103,15 @@
         <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/custom_recycler_survey_edittable.xml" value="0.2902621722846442" />
         <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/custom_spinner_font.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/custom_spinner_text.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/fragment_first_manual.xml" value="0.3619791666666667" />
         <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/fragment_main_application.xml" value="0.190625" />
         <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/fragment_main_chat.xml" value="0.190625" />
         <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/fragment_main_home.xml" value="0.24742269014270782" />
         <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/fragment_main_mypage.xml" value="0.26420454545454547" />
         <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/fragment_main_ongoing.xml" value="0.49484538028541564" />
+        <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/fragment_second_manual.xml" value="0.3484375" />
+        <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/fragment_third_manual.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/fragment_view_pager.xml" value="0.1" />
         <entry key="..\:/Users/ej/haejo/app/src/main/res/layout/spinner_text.xml" value="0.3619791666666667" />
         <entry key="..\:/Users/ej/haejo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/ej/haejo/app/src/main/res/xml/network_security_config.xml" value="0.1" />
