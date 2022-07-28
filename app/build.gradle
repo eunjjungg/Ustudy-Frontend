@@ -74,6 +74,9 @@ dependencies {
     //Circle ImageView
     implementation 'de.hdodenhof:circleimageview:3.1.0'
 
+    //ViewPager2
+    implementation 'androidx.viewpager2:viewpager2:1.0.0'
+
     //Room DB
     def room_version = "2.3.0"
     implementation "androidx.room:room-runtime:$room_version"
