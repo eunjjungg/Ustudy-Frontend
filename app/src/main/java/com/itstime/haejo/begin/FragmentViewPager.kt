@@ -36,9 +36,9 @@ class FragmentViewPager : Fragment() {
         val pagerAdapter = AdapterPagerState(requireActivity())
 
         // 3개의 Fragment Add
-        pagerAdapter.addFragment(FragmentFirstManual())
-        pagerAdapter.addFragment(FragmentSecondManual())
-        pagerAdapter.addFragment(FragmentThirdManual())
+        pagerAdapter.addFragment(FragmentManual1())
+        pagerAdapter.addFragment(FragmentManual2())
+        pagerAdapter.addFragment(FragmentManual3())
 
         //Adapter
         binding.viewPager.adapter = pagerAdapter
