@@ -31,7 +31,7 @@ class LoadingActivity : AppCompatActivity() {
         handler.postDelayed({
             var intent: Intent
             if(userEmail == "null") {
-                intent = Intent(this, BeginActivity::class.java)
+                intent = Intent(this, BeginManualActivity::class.java)
                 startActivity(intent)
                 finish()
             }

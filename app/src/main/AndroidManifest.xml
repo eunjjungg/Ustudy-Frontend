@@ -12,7 +12,7 @@
         android:theme="@style/Theme.Haejo"
         android:usesCleartextTraffic="true">
         <activity
-            android:name=".begin.LoadingActivity"
+            android:name=".begin.BeginManualActivity"
             android:exported="false" />
         <activity
             android:name=".mypage.MypageRatingActivity"
@@ -60,7 +60,7 @@
             android:name=".BeginActivity"
             android:exported="false" />
         <activity
-            android:name=".begin.BeginManualActivity"
+            android:name=".begin.LoadingActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
