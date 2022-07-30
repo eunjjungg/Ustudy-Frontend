@@ -7,10 +7,7 @@
 + 정은정 : 기획, 디자인, 프론트엔드
 
 ### 프론트엔드 사용 기술
-1. Android Studio
-2. Kotlin
-3. Firebase
-4. Retrofit2
+Android Studio, Kotlin, Firebase, Retrofit2, Lottie
 
 ### 백엔드 사용 기술
 Spring, Java, Mysql, EC2 RDS
