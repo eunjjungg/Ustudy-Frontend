@@ -1,6 +1,9 @@
 # USTUDY 프로젝트
 본 앱은 다양한 분야의 스터디 및 취미 모임을 제공하고 있으며 대면 여부, 지역, 시간을 넘어 언제 어디서든 편하게 참여할 수 있는 스터디 진행하도록 장려하는 서비스입니다. 
 <br/><br/>
+### Backend Github
+https://github.com/jwpark1211/ItsTime_Ustudy <br/>
+
 ### Team : Haejo
 + 김의진 : 기획
 + 박정운 : 백엔드
