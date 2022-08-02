@@ -26,8 +26,7 @@ https://www.youtube.com/watch?v=0t76P9qBD3c
 ## 기능
 
 #### 📚 1. App Manual <br/>
-
-![image](https://user-images.githubusercontent.com/100047095/182458825-895bfb8c-4811-4068-be4a-dfb4497dbbc9.png)
+![image](https://user-images.githubusercontent.com/100047095/182464296-17afb1c2-c599-4578-bc5e-8b1b026ea21a.png)
 
 > Fragment를 이용한 매뉴얼 구현 <br/>
 Lottie를 이용한 애니메이션 재생 <br/>
@@ -37,7 +36,7 @@ Lottie를 이용한 애니메이션 재생 <br/>
 <br/>
 
 #### 📚 2. 스터디 지원하기 <br/>
-<img src="https://user-images.githubusercontent.com/100047095/182459443-d9e88e2b-01c0-4258-93f8-89da27938907.png" width="500" height="500"/>
+![image](https://user-images.githubusercontent.com/100047095/182459443-d9e88e2b-01c0-4258-93f8-89da27938907.png)
 
 > recyclerView를 이용한 게시글 무한 스크롤<br/>
 retrofit2를 사용한 백엔드로부터의 게시글, 작성자 데이터 받기 <br/>
@@ -48,7 +47,7 @@ retrofit2를 사용한 백엔드에게로의 지원자 데이터 전달
 <br/>
 
 #### 📚 3. 스터디 작성하기 <br/>
-<img src="https://user-images.githubusercontent.com/100047095/182461990-4a91f7c6-bc19-47f6-a569-bd3673fb23f2.PNG" width="500" height="500"/>
+![image](https://user-images.githubusercontent.com/100047095/182461990-4a91f7c6-bc19-47f6-a569-bd3673fb23f2.PNG)
 
 > spinner를 사용한 카테고리 <br/>
 recyclerView를 이용한 editText 동적 생성<br/>
@@ -58,7 +57,7 @@ retrofit2를 사용한 백엔드에게로의 스터디 데이터 전달
 <br/>
 
 #### 📚 4. 스터디원 평가 <br/>
-<img src="https://user-images.githubusercontent.com/100047095/182462334-9a727ea4-0de4-4605-9b83-ee5a6cf2a5f2.PNG" width="500" height="500"/>
+![image](https://user-images.githubusercontent.com/100047095/182462334-9a727ea4-0de4-4605-9b83-ee5a6cf2a5f2.PNG)
 
 > recyclerView를 이용한 참여하는 스터디 정보 나열 <br/>
 retrofit2를 사용한 백엔드로부터의 스터디 공지, 스터디원 데이터 받기 <br/>
@@ -70,7 +69,7 @@ retrofit2를 사용한 백엔드에게로의 평가 데이터 전달
 <br/>
 
 #### 📚 5. 내가 받은 평가 <br/>
-<img src="https://user-images.githubusercontent.com/100047095/182462683-1537f1bf-7608-4be8-872f-6ad72224d251.PNG" width="500" height="500"/>
+![image](https://user-images.githubusercontent.com/100047095/182462683-1537f1bf-7608-4be8-872f-6ad72224d251.PNG)
 
 > recyclerView를 이용한 평가 동적 생성<br/>
 retrofit2를 사용한 백엔드로부터의 평점, 평점자 데이터 받기 <br/>
@@ -80,7 +79,7 @@ retrofit2를 사용한 백엔드로부터의 사용자 닉네임, 배터리 받�
 <br/>
 
 #### 📚 6. 댓글, 북마크 <br/>
-<img src="https://user-images.githubusercontent.com/100047095/182463017-18698561-639e-48c2-b7a0-a8530c50db29.png" width="500" height="500"/>
+![image](https://user-images.githubusercontent.com/100047095/182463017-18698561-639e-48c2-b7a0-a8530c50db29.png)
 
 > recyclerView를 이용한 댓글 동적 생성 <br/>
 댓글과 북마크 내용은 마이페이지의 각 탭에서 확인 가능 <br/>
@@ -91,7 +90,7 @@ retrofit2를 사용한 백엔드로부터의 사용자 닉네임, 배터리 받�
 
 ## 🎨 디자인
 <br/>
-<img src="https://user-images.githubusercontent.com/100047095/182463401-66f8ed3d-e740-49f3-ae3a-d8a534a308e2.PNG" width="768" height="432"/>
+![image](https://user-images.githubusercontent.com/100047095/182463401-66f8ed3d-e740-49f3-ae3a-d8a534a308e2.PNG)
 
 
 
