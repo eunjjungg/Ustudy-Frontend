@@ -26,7 +26,8 @@ https://www.youtube.com/watch?v=0t76P9qBD3c
 ## 기능
 
 #### 📚 1. App Manual <br/>
-<img src="https://user-images.githubusercontent.com/100047095/182464296-17afb1c2-c599-4578-bc5e-8b1b026ea21a.png" width="500" height="500"/>
+
+![image](https://user-images.githubusercontent.com/100047095/182458825-895bfb8c-4811-4068-be4a-dfb4497dbbc9.png)
 
 > Fragment를 이용한 매뉴얼 구현 <br/>
 Lottie를 이용한 애니메이션 재생 <br/>
