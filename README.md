@@ -1,12 +1,15 @@
 ![image](https://user-images.githubusercontent.com/100047095/182458825-895bfb8c-4811-4068-be4a-dfb4497dbbc9.png)
+#### 🔗 시연 영상 
+https://www.youtube.com/watch?v=0t76P9qBD3c
 <br/><br/>
 
-### 🏆 IT's TIME 1기 최우수상 수상 <br/><br/>
 
 ### 📒 USTUDY
 본 앱은 다양한 분야의 스터디 및 취미 모임을 제공하고 있으며<br/>
 언제 어디서든 참여할 수 있는 스터디 모임을 제공하는 서비스 입니다
 <br/><br/>
+
+### 🏆 IT's TIME 1기 최우수상 수상 <br/><br/>
 
 ### 🌊 Team Haejo : 해변가의 조약돌
 + 김의진 : 기획
@@ -87,8 +90,7 @@ retrofit2를 사용한 백엔드로부터의 사용자 닉네임, 배터리 받�
 
 ## 🎨 디자인
 <br/>
-
-![슬라이드10](https://user-images.githubusercontent.com/100047095/182463401-66f8ed3d-e740-49f3-ae3a-d8a534a308e2.PNG)
+<img src="https://user-images.githubusercontent.com/100047095/182463401-66f8ed3d-e740-49f3-ae3a-d8a534a308e2.PNG" width="768" height="432"/>
 
 
 
