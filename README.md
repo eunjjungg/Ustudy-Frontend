@@ -90,6 +90,7 @@ retrofit2를 사용한 백엔드로부터의 사용자 닉네임, 배터리 받�
 
 ## 🎨 디자인
 <br/>
+
 ![image](https://user-images.githubusercontent.com/100047095/182463401-66f8ed3d-e740-49f3-ae3a-d8a534a308e2.PNG)
 
 
